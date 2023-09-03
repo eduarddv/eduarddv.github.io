@@ -4,6 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+Include test:
+{% include another-page.md %}
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.

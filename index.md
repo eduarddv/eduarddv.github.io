@@ -5,8 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Include test:
-{% include_relative portfolio.md %}
-[Link to another page](./another-page.html).
+[projects](./content/projects/projects.md).
 
 There should be whitespace between paragraphs.
 

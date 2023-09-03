@@ -1,0 +1,10 @@
+home (summary)
+portfolio
+-games programming and tech
+-general programming
+-embedded and hardware
+-math
+publications
+experience
+education
+references

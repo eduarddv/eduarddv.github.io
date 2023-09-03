@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Welcome to the projects page
-[games](./games/games.md).
+[games](/games/games.md).
 
 _yay_
 

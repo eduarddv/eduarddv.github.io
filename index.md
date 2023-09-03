@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Include test:
-{% include another-page.md %}
+{% include another-page.html %}
 
 [Link to another page](./another-page.html).
 

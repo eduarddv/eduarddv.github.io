@@ -23,4 +23,4 @@ Reference letters available upon request.
 
 ## Projects
 
-<-- {% include_relative c_celeste.md %} -->
+<!-- {% include_relative c_celeste.md %} -->

@@ -1,5 +1,5 @@
 home (summary)
-portfolio
+projects
 -games programming and tech
 -general programming
 -embedded and hardware

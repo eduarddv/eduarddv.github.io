@@ -23,4 +23,4 @@ Reference letters available upon request.
 
 ## Projects
 
-{% include_relative ../content/projects/games/e4unityintegration-mit/c_e4unityintegration-mit.md %}
+{% include_relative content/projects/games/e4unityintegration-mit/c_e4unityintegration-mit.md %}

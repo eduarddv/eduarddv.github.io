@@ -11,3 +11,5 @@ I was in charge of programming physics and movement (jump, walljump, dash), inte
 The game was developed over four weeklong sprints in a group of two. <!-- You can view the corresponding Trello board here: -->
 
 This project showcases my command of low-level programming in the context of C++ and OpenGL, as well as my skill developing simple games. As the project was coordinated between two people, it also shows my understanding of teamwork, the agile methodology, and git.
+
+[View the project repository.](https://github.com/eduarddv/VJ-2022-Celeste)

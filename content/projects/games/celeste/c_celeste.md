@@ -1,10 +1,10 @@
 ### Celeste game clone
 
-This is a complete 2D platformer modelled after the game Celeste for the PICO-8.
+This is a complete 2D platformer modelled after the game Celeste for the PICO-8. It is written directly in C++ and OpenGL, and uses the original game's graphics and sound.
 
 <iframe width="448" height="252" src="https://eduarddv.github.io/assets/videos/celeste.mp4" frameborder="0" allowfullscreen></iframe>
 
-It is written directly in C++ and OpenGL, and uses the original game's graphics and sound. It features 10 levels and a variety of moves (jump, walljump, directional dash), gameplay elements (springs, which make you bounce; balloons, which restore your dash mid-air; clouds, which are platforms traversable from below), and obstacles (spikes, destructible blocks).
+It features 10 levels and a variety of moves (jump, walljump, directional dash), gameplay elements (springs, which make you bounce; balloons, which restore your dash mid-air; clouds, which are platforms traversable from below), and obstacles (spikes, destructible blocks).
 
 I was in charge of programming physics and movement (jump, walljump, dash), interactive entities (spikes, springs, balloons, destructible blocks, clouds), animations (of the main character and the interactive entities), sound, and menus.
 

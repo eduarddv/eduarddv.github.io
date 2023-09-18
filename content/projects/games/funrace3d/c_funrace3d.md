@@ -4,8 +4,6 @@ This is a complete 3D 2-player split-screen obstacle course game modelled after 
 
 ![Fun Race 3D image](/assets/images/FunRace3D.png)
 
-Programmed movement, respawning, the dynamic obstacles (spikes, rotating bars, swinging balls...)
-
 It features 5 levels and a variety of obstacles (spikes, rotating bars, swinging balls, etc.).
 
 I was in charge of programming movement (players follow a predetermined path along the course), respawning, and dynamic objects' behaviours, as well as making the levels and obstacles' models.

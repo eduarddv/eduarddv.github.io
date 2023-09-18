@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Uh-oh. This page is still under construction!
+<!-- Uh-oh. This page is still under construction!
 
-I had planned to finish this page by the end of the weekend, but if you're reading this it means I encountered unforeseen delays. Sorry about that!
+I had planned to finish this page by the end of the weekend, but if you're reading this it means I encountered unforeseen delays. Sorry about that! -->
 
 # Portfolio for King Junior C++ Developer - Catalog Games
 
@@ -28,3 +28,7 @@ Reference letters available upon request.
 {% include_relative content/projects/games/celeste/c_celeste.md %}
 
 {% include_relative content/projects/games/funrace3d/c_funrace3d.md %}
+
+## Experience
+
+{% include_relative content/experience/esperanto/c_esperanto.md %}

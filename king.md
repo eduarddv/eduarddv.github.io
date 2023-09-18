@@ -27,3 +27,4 @@ Reference letters available upon request.
 
 {% include_relative content/projects/games/celeste/c_celeste.md %}
 
+{% include_relative content/projects/games/funrace3d/c_funrace3d.md %}

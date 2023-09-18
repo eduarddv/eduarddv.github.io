@@ -2,7 +2,7 @@
 
 _E4UnityIntegration-MIT_ is an Android Unity plugin to integrate the Empatica E4 wristband used to obtain physiological measurements into the game engine. It is written in C# and Java.
 
-The plugin, which was released as open source, spawned an associated short paper which I'm in the process of trying to get published. [View the (anonymised) paper.](/assets/documents/IEEE_CoG2023_Empatica_E4_auxiliary_short_paper.pdf). [Browse the source code.](https://osf.io/v9whk/?view\_only=dc43354770044134a45c0a74c312514f)
+The plugin, which was released as open source, spawned an associated short paper which I'm in the process of trying to get published. [View the (anonymised) paper.](/assets/documents/IEEE_CoG2023_Empatica_E4_auxiliary_short_paper.pdf) [Browse the source code.](https://osf.io/v9whk/?view\_only=dc43354770044134a45c0a74c312514f)
 
 The plugin was piloted and validated during a small scale human-subjects study exploring the relationships between physiological measurements and sense of presence in a VR game using _E4UnityIntegration-MIT_.
 

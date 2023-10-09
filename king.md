@@ -8,7 +8,7 @@ I had planned to finish this page by the end of the weekend, but if you're readi
 
 # Portfolio for King Junior C++ Developer - Catalog Games
 
-Thank you for stopping by! This page contains a selection of my work relevant to the Junior C++ Developer - Catalog Games position.
+Thank you for stopping by! This page contains a selection of my work.<!-- relevant to the Junior C++ Developer - Catalog Games position.-->
 
 ## About Me
 
